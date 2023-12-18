@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The playlist</title>
+    <link rel="stylesheet" type="text/css" href="/index.971c2ea4.css">
+    <link rel="stylesheet" href="/index.f9bf02d8.css">
+    <link rel="icon" href="/favicon.c5ec8b79.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.c5ec8b79.ico" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <picture>
+    <source media="(max-width: 480px)" srcset="/logo-323w.dbcbcb9e.webp">
+    <source media="(min-width: 480px) and (max-width: 799px)" srcset="/logo-480w.a590671a.webp">
+    <source media="(min-width: 800px)" srcset="/logo-800w.3f06df9c.webp">
+    <img src="/logo-323w.dbcbcb9e.webp" style="width: auto" alt="Chris standing up holding his daughter Elva">
+</picture>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li class="activo"><a href="#">Capitols</a></li>
+                <li><a href="/presentacio.html">Presentació</a></li>
+                <li><a href="/links.html">Enllaços</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <header>
+                <h1>Capítol 1: La visió</h1>
+            </header>
+
+            <main>
+                <article>
+                    <h2>Daniel Ek, el geni de la tecnologia</h2>
+                    <p>
+                        El protagonista de la sèrie és Daniel Ek, un programador autodidacta que ha aconseguit un gran
+                        èxit amb la seva startup, Tradedoubler. Ek és un visionari que creu que la indústria musical
+                        necessita un canvi radical.
+                    </p>
+                    <img src="/danielek.7d619991.jpg" alt="Daniel Ek, protagonista de la sèrie The Playlist">
+
+                    <h2>Martin Lorentzon, el soci ideal</h2>
+                    <p>
+                        Martin Lorentzon és un empresari amb experiència en el sector de la tecnologia. És el soci ideal
+                        d'Ek per a fer realitat el seu somni.
+                    </p>
+                    <img src="/detall.4ec4c984.jpg" alt="Martin Lorentzon, soci d'Ek a la sèrie The Playlist">
+
+                    <h2>El problema de la pirateria</h2>
+                    <p>
+                        A principis dels anys 2000, la indústria musical estava en crisi. La pirateria digital estava
+                        destrueixent els ingressos dels artistes. Ek i Lorentzon creuen que una plataforma de streaming
+                        legal podria solucionar aquest problema.
+                    </p>
+
+                    <h2>El naixement de Spotify</h2>
+                    <p>
+                        El capítol acaba amb el naixement de Spotify. Ek i Lorentzon tenen una idea clara del que volen
+                        fer, però el camí no serà fàcil.
+                    </p>
+
+                    <h2>Detalls del capítol</h2>
+                    <p>
+                        El capítol comença amb una escena en què Daniel Ek està a punt d'anunciar la venda de
+                        Tradedoubler a una gran empresa. Ek és un home ambiciós que sempre busca nous reptes.
+                    </p>
+                    <p>
+                        A continuació, la sèrie ens presenta a Martin Lorentzon, un empresari que està buscant una nova
+                        inversió. Ek i Lorentzon es coneixen en un sopar i es veuen atrets per les idees de l'altre.
+                    </p>
+                    <p>
+                        Els dos homes comencen a treballar junts en un projecte secret. Es tracta d'una plataforma de
+                        streaming musical que permetria als usuaris escoltar música de forma legal i gratuïta.
+                    </p>
+                    <p>
+                        Al final del capítol, Ek i Lorentzon presenten el seu projecte a un grup d'inversors. Els
+                        inversors estan impressionats per la idea, però dubten de la seva viabilitat.
+                    </p>
+
+                    <h2>Crítica</h2>
+                    <p>
+                        El primer capítol de The Playlist és un bon començament per a la sèrie. Els actors interpreten
+                        de manera convincent als seus personatges i la història és interessant i entretinguda.
+                    </p>
+                    <p>
+                        El capítol també fa una bona feina de situar l'espectador en el context de l'època. La pirateria
+                        digital era un problema real que estava afectant a la indústria musical. Ek i Lorentzon van ser
+                        visionaris en veure que una plataforma de streaming legal podria solucionar aquest problema.
+                    </p>
+                </article>
+        </main></section>
+    </main>
+
+    <footer>
+    <div>
+        <div class="webmap">
+            <ul>
+                <li><a href="/index.html">Home</a> &nbsp;</li>
+                <li><a href="/capitols.html">Capitols</a> &nbsp;</li>
+                <li><a href="/presentacio.html">Presentació</a> &nbsp;</li>
+                <li><a href="/links.html">Enllaços</a></li>
+            </ul>
+        </div>
+        <p></p>
+        <div class="logoSpotify">
+            <picture>
+                <source srcset="/footer_logo.7331067a.webp">
+                <img src="/footer_logo.7331067a.webp" alt="The Playlist">
+            </picture>
+        </div>
+
+
+        <p>UOC 2023 &copy; Carles Escudé</p>
+
+    </div>
+</footer>
+<script src="/index.df46d4ea.js"></script>
+<script src="/index.59a40e7a.js" defer=""></script>
+</body>
+
+</html>

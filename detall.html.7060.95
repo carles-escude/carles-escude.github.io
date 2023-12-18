@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+    <title>The playlist</title>
+    <link rel="stylesheet" type="text/css" href="/index.971c2ea4.css">
+    <link rel="stylesheet" href="/index.f9bf02d8.css">
+    <link rel="icon" href="/favicon.c5ec8b79.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.c5ec8b79.ico" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <picture>
+    <source media="(min-width: 800px)" srcset="/logo-800w.3f06df9c.webp">
+    <source media="(min-width: 480px) and (max-width: 799px)" srcset="/logo-480w.a590671a.webp" style="width: 100%">
+    <source media="(max-width: 480px)" srcset="/logo-323w.dbcbcb9e.webp" style="width: 100%">
+    <img src="/logo-323w.dbcbcb9e.webp" alt="header image">
+</picture>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li class="activo"><a href="#">Capitols</a></li>
+                <li><a href="/presentacio.html">Presentació</a></li>
+                <li><a href="/links.html">Enllaços</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <main>
+            <h1>Capítol 1: La visió</h1>
+
+            <div class="row">
+                <picture>
+                    <source media="(min-width: 800px)" srcset="/danielek.7d619991.jpg" style="max-width: 100%">
+                    <source media="(min-width: 480px) and (max-width: 799px)" srcset="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%">
+                    <source media="(max-width: 480px)" srcset="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%">
+                    <img src="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%" alt="header image">
+                </picture>
+                <div>
+                    <h2>Daniel Ek, el geni de la tecnologia</h2>
+                    <p>
+                        El protagonista de la sèrie és Daniel Ek, un programador autodidacta que ha aconseguit un gran
+                        èxit amb la seva startup, Tradedoubler. Ek és un visionari que creu que la indústria musical
+                        necessita un canvi radical.
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="row2">
+                <div>
+                    <h2>Martin Lorentzon, el soci ideal</h2>
+                    <p>
+                        Martin Lorentzon és un empresari amb experiència en el sector de la tecnologia. És el soci ideal
+                        d'Ek per a fer realitat el seu somni.
+                    </p>
+                </div>
+                <img src="/detall.4ec4c984.jpg" alt="Image 2">
+            </div>
+
+            <div class="row">
+                <picture>
+                    <source media="(min-width: 800px)" srcset="/danielek.7d619991.jpg" style="max-width: 100%">
+                    <source media="(min-width: 480px) and (max-width: 799px)" srcset="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%">
+                    <source media="(max-width: 480px)" srcset="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%">
+                    <img src="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%" alt="header image">
+                </picture>
+                <div>
+                    <h2>El problema de la pirateria</h2>
+                    <p>
+                        A principis dels anys 2000, la indústria musical estava en crisi. La pirateria digital estava
+                        destrueixent els ingressos dels artistes. Ek i Lorentzon creuen que una plataforma de streaming
+                        legal podria solucionar aquest problema.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row2">
+                <div>
+                    <h2>El naixement de Spotify</h2>
+                    <p>
+                        El capítol acaba amb el naixement de Spotify. Ek i Lorentzon tenen una idea clara del que volen
+                        fer, però el camí no serà fàcil.
+                    </p>
+                </div>
+
+                <picture>
+                    <source media="(min-width: 800px)" srcset="/danielek.7d619991.jpg" style="max-width: 100%">
+                    <source media="(min-width: 480px) and (max-width: 799px)" srcset="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%">
+                    <source media="(max-width: 480px)" srcset="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%">
+                    <img src="/danielek-art-direction.2f8b9bda.jpg" style="max-width: 100%" alt="header image">
+                </picture>
+            </div>
+
+
+        </main>
+        <footer>
+    <div>
+        <div class="webmap">
+            <ul>
+                <li><a href="/index.html">Home</a> &nbsp;</li>
+                <li><a href="/capitols.html">Capitols</a> &nbsp;</li>
+                <li><a href="/presentacio.html">Presentació</a> &nbsp;</li>
+                <li><a href="/links.html">Enllaços</a></li>
+            </ul>
+        </div>
+        <p></p>
+        <div class="logoSpotify">
+            <picture>
+                <source srcset="/footer_logo.7331067a.webp">
+                <img src="/footer_logo.7331067a.webp" alt="The Playlist">
+            </picture>
+        </div>
+
+
+        <p>UOC 2023 &copy; Carles Escudé</p>
+
+    </div>
+</footer>
+<script src="/index.df46d4ea.js"></script>
+<script src="/index.59a40e7a.js" defer=""></script>
+</section></body>
+
+</html>
