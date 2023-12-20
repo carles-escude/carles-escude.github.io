@@ -338,7 +338,7 @@ nav a:hover {
 
 .activo a, .activo a:hover {
   color: #1db954;
-  background-color: #555;
+  background-color: #333;
 }
 
 section a {
@@ -378,7 +378,7 @@ section a {
   color: #333;
   background-color: #95e4b1;
   border-radius: 0 0 10px 10px;
-  margin: 0 .1em .1em;
+  margin: 0;
   padding: 10px;
   font-size: medium;
 }
@@ -527,6 +527,10 @@ picture {
   margin: 0;
   padding: 0;
   display: block;
+}
+
+.rowcont {
+  color: #333;
 }
 
 /*# sourceMappingURL=index.971c2ea4.css.map */
