@@ -19,7 +19,7 @@
   }
 
   .container2 {
-    background-color: #5acc83;
+    background-color: #2a844c;
     border-radius: 15px;
     flex-direction: column;
     width: 80%;
@@ -38,7 +38,8 @@
   }
 
   .image3 {
-    max-width: 840px;
+    width: 840px;
+    height: 1244px;
   }
 
   .webmap ul {
@@ -60,7 +61,8 @@
   }
 
   .img_capitols {
-    width: 100%;
+    width: 672px;
+    height: 378px;
   }
 
   .rowcont {
@@ -72,12 +74,25 @@
     width: 840px;
   }
 
+  .clippath {
+    height: 440px;
+  }
+
   .svg-container, svg {
     height: 60px;
   }
 
   .txtSVG {
     font: 60px sans-serif;
+  }
+
+  .header_img picture img {
+    width: 800px;
+  }
+
+  .image {
+    width: 200px;
+    height: 112px;
   }
 }
 
@@ -102,7 +117,7 @@
   }
 
   .container2 {
-    background-color: #5acc83;
+    background-color: #2a844c;
     border-radius: 15px;
     flex-direction: column;
     margin: 5px auto;
@@ -180,6 +195,15 @@
   .txtSVG {
     font: 80px sans-serif;
   }
+
+  .header_img picture img {
+    width: 100%;
+  }
+
+  .image {
+    width: 200px;
+    height: 112px;
+  }
 }
 
 @media screen and (width <= 425px) {
@@ -200,7 +224,7 @@
   }
 
   .container2 {
-    background-color: #5acc83;
+    background-color: #2a844c;
     flex-direction: column;
     margin: 0 0 10px;
     padding: 2em;
@@ -276,6 +300,14 @@
 
   .txtSVG {
     font: 40px sans-serif;
+  }
+
+  .header_img picture img {
+    width: 100%;
+  }
+
+  .image {
+    width: 200px;
   }
 }
 
@@ -366,7 +398,6 @@ section a {
 }
 
 .image {
-  width: 200px;
   margin: 10px;
 }
 
@@ -406,6 +437,7 @@ p {
 }
 
 .webmap ul li {
+  padding: 10px;
   list-style-type: none;
 }
 
@@ -468,7 +500,7 @@ main {
 
 .row2 {
   box-sizing: border-box;
-  background-color: #5acc83;
+  background-color: #2a844c;
   align-items: center;
   margin: auto;
   display: flex;

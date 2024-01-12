@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The playlist</title>
+    <link rel="stylesheet" type="text/css" href="/index.971c2ea4.css">
+    <link rel="stylesheet" href="/index.f9bf02d8.css">
+    <link rel="icon" href="/favicon.c5ec8b79.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.c5ec8b79.ico" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+
+        <div class="header_img">
+    <picture>
+        <source media="(min-width: 840px)" srcset="/logo-800w.3f06df9c.webp">
+        <source media="(min-width: 480px) and (max-width: 839px)" srcset="/logo-480w.a590671a.webp">
+        <source media="(max-width: 480px)" srcset="/logo-323w.dbcbcb9e.webp">
+        <img src="/logo-323w.dbcbcb9e.webp" alt="header image">
+    </picture>
+</div>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/capitols.html">Capitols</a></li>
+                <li><a href="/presentacio.html">Presentació</a></li>
+                <li class="activo"><a href="#">Enllaços</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Links</h2>
+            <ul>
+                <li>
+                    <p>Llistat de capítols: <a class="links" href="https://www.netflix.com/es/title/81186296">Netflix</a></p>
+                </li>
+                <li>
+                    <p>Text de contingut dels apartats Home i Presentació: <a class="links" href="https://chat.openai.com/">ChatGPT</a></p>
+                </li>
+                <li>
+                    <p>Imatges: <a class="links" href="https://www.filmaffinity.com/es/film780937.html">Film
+                            Affinity</a></p>
+                </li>
+                <li>
+                    <p>Informació quota navegadors: <a class="links" href="https://kinsta.com/es/cuota-mercado-mundial-navegadores/">Kinsta</a></p>
+                </li>
+                <li>
+                    <p>Logotip de Spotify © Spotify AB Propietari dels drets d'autor <a class="links" href="https://www.spotify.com/es/about-us/contact/">Spotify</a></p>
+                </li>
+
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+    <div>
+        <div class="webmap">
+            <ul>
+                <li><a href="/index.html">Home</a> &nbsp;</li>
+                <li><a href="/capitols.html">Capitols</a> &nbsp;</li>
+                <li><a href="/presentacio.html">Presentació</a> &nbsp;</li>
+                <li><a href="/links.html">Enllaços</a></li>
+            </ul>
+        </div>
+        <p></p>
+        <div class="logoSpotify">
+            <picture>
+                <source srcset="/footer_logo.7331067a.webp">
+                <img src="/footer_logo.7331067a.webp" alt="The Playlist" loading="lazy" width="60px" height="60px">
+            </picture>
+        </div>
+
+
+        <p>UOC 2023 &copy; Carles Escudé</p>
+
+    </div>
+</footer>
+<script defer="" src="/index.df46d4ea.js"></script>
+<script defer="" src="/index.59a40e7a.js"></script>
+
+</body>
+
+</html>
