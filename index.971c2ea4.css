@@ -75,7 +75,7 @@
   }
 
   .clippath {
-    height: 440px;
+    height: 473px;
   }
 
   .svg-container, svg {
@@ -88,6 +88,7 @@
 
   .header_img picture img {
     width: 800px;
+    height: 150px;
   }
 
   .image {
@@ -421,7 +422,7 @@ p {
 }
 
 .links {
-  color: #1db954;
+  color: #2a844c;
   font-size: medium;
   text-decoration: none;
 }
