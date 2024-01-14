@@ -19,7 +19,7 @@
   }
 
   .container2 {
-    background-color: #2a844c;
+    background-color: #5acc83;
     border-radius: 15px;
     flex-direction: column;
     width: 80%;
@@ -38,8 +38,7 @@
   }
 
   .image3 {
-    width: 840px;
-    height: 1244px;
+    max-width: 840px;
   }
 
   .webmap ul {
@@ -61,8 +60,7 @@
   }
 
   .img_capitols {
-    width: 672px;
-    height: 378px;
+    width: 100%;
   }
 
   .rowcont {
@@ -74,26 +72,12 @@
     width: 840px;
   }
 
-  .clippath {
-    height: 473px;
-  }
-
   .svg-container, svg {
     height: 60px;
   }
 
   .txtSVG {
     font: 60px sans-serif;
-  }
-
-  .header_img picture img {
-    width: 800px;
-    height: 150px;
-  }
-
-  .image {
-    width: 200px;
-    height: 112px;
   }
 }
 
@@ -118,7 +102,7 @@
   }
 
   .container2 {
-    background-color: #2a844c;
+    background-color: #5acc83;
     border-radius: 15px;
     flex-direction: column;
     margin: 5px auto;
@@ -196,15 +180,6 @@
   .txtSVG {
     font: 80px sans-serif;
   }
-
-  .header_img picture img {
-    width: 100%;
-  }
-
-  .image {
-    width: 200px;
-    height: 112px;
-  }
 }
 
 @media screen and (width <= 425px) {
@@ -225,7 +200,7 @@
   }
 
   .container2 {
-    background-color: #2a844c;
+    background-color: #5acc83;
     flex-direction: column;
     margin: 0 0 10px;
     padding: 2em;
@@ -301,14 +276,6 @@
 
   .txtSVG {
     font: 40px sans-serif;
-  }
-
-  .header_img picture img {
-    width: 100%;
-  }
-
-  .image {
-    width: 200px;
   }
 }
 
@@ -399,6 +366,7 @@ section a {
 }
 
 .image {
+  width: 200px;
   margin: 10px;
 }
 
@@ -422,8 +390,8 @@ p {
 }
 
 .links {
-  color: #2a844c;
-  font-size: large;
+  color: #1db954;
+  font-size: medium;
   text-decoration: none;
 }
 
@@ -438,7 +406,6 @@ p {
 }
 
 .webmap ul li {
-  padding: 10px;
   list-style-type: none;
 }
 
@@ -501,7 +468,7 @@ main {
 
 .row2 {
   box-sizing: border-box;
-  background-color: #2a844c;
+  background-color: #5acc83;
   align-items: center;
   margin: auto;
   display: flex;
@@ -563,12 +530,8 @@ picture {
   display: block;
 }
 
-.row .rowcont {
+.rowcont {
   color: #333;
-}
-
-.row2 .rowcont {
-  color: #fff;
 }
 
 /*# sourceMappingURL=index.971c2ea4.css.map */
