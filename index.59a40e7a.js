@@ -582,7 +582,7 @@ window.addEventListener("load", function() {
                 "background": "#000"
             },
             "button": {
-                "background": "#2A844C"
+                "background": "#1DB954"
             }
         },
         "content": {
