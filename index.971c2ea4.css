@@ -423,7 +423,7 @@ p {
 
 .links {
   color: #2a844c;
-  font-size: medium;
+  font-size: large;
   text-decoration: none;
 }
 
@@ -563,8 +563,12 @@ picture {
   display: block;
 }
 
-.rowcont {
+.row .rowcont {
   color: #333;
+}
+
+.row2 .rowcont {
+  color: #fff;
 }
 
 /*# sourceMappingURL=index.971c2ea4.css.map */
